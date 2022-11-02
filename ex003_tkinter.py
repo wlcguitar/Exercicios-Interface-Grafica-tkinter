@@ -1,4 +1,3 @@
-#3º Exercicio tkinter
 import tkinter
 from tkinter import ttk
 from tkinter.messagebox import showinfo
