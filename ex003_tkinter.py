@@ -1,3 +1,4 @@
+#3º Exercicio tkinter
 import tkinter
 from tkinter import ttk
 from tkinter.messagebox import showinfo
@@ -15,7 +16,7 @@ def btn_clicked(event=None):
         text_box.select_range(0 ,tkinter.END)
         text_box.focus()
 
-        
+       
 texto = tkinter.StringVar()
 texto.set("Insira seu nome...")
 
